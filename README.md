@@ -10,3 +10,19 @@ pip install scipy
 scrapy crawl ChinaDailySpider -o contents.jl
 scrapy crawl NovelSpider -o contents.jl
 scrapy crawl WikiSpider -o contents.jl
+
+```
+
+## FNN_two_methods
+
+* contents_test.jl is smaller than contents_small.jl
+
+* Weights Matrix files are deleted to save space
+* test and train
+  * python file is for training
+  * ipynb file is for testing
+
+### Skip-gram
+
+### 5-gram
+

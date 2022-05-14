@@ -1,0 +1,23 @@
+// The first one of every list is used to calculate 10 most similar words
+// for example, 'stadiums', 'chinese', 'interest', 'no', 'photos', 'its', 'was', 'series', "china's", 'also'
+// are the 10 most similar words to 'national'
+['national', 'stadiums', 'chinese', 'interest', 'no', 'photos', 'its', 'was', 'series', "china's", 'also']
+['hemisphere', 'boasts', 'venue', 'many', "airlines'", 'charter', 'unforgettable', 'be', 'from', 'was', 'national']
+['province', 'no', 'tennis', 'jianghua', 'photos', 'charter', 'parliament', 'venue', 'boasts', 'become', 'although']
+['ceremony', 'no', 'jan', 'kilometers', 'chew', 'its', 'games', 'boasts', 'unforgettable', 'tennis', 'athletes']
+['addressing', 'no', 'was', 'very', 'with', 'show', 'aims', 'cultural', 'away', 'countries', 'its']
+['expressed', 'many', 'boasts', 'countries', 'no', 'tennis', 'jianghua', 'aims', 'parliament', 'venue', 'lovers']
+['with', 'be', 'tennis', 'boasts', 'charter', 'airport', 'an', 'games', 'exhibition', 'unforgettable', 'chew']
+['confidence', 'no', 'was', 'away', 'kilometers', 'not', 'stadiums', 'with', 'its', 'series', 'athletes']
+['with', 'be', 'tennis', 'boasts', 'charter', 'airport', 'an', 'games', 'exhibition', 'unforgettable', 'chew']
+['only', 'no', 'cultural', 'said', 'many', 'jianghua', 'aims', 'as', 'lovers', 'tourist', 'region']
+['city', 'tennis', 'be', 'national', 'no', 'an', 'office', 'charter', 'preparations', 'boasts', 'games']
+['xiao', 'be', 'interest', 'boasts', 'games', 'resorts', 'many', 'charter', 'building', 'unforgettable', 'chinese']
+['winter', 'tennis', 'through', 'national', 'as', 'lee', 'run', 'aims', 'cultural', 'be', 'an']
+['xiao', 'be', 'interest', 'boasts', 'games', 'resorts', 'many', 'charter', 'building', 'unforgettable', 'chinese']
+['making', 'many', 'boasts', 'tennis', 'as', 'interest', 'parliament', 'be', 'it', 'no', 'countries']
+['games', 'no', 'jianghua', 'very', 'boasts', 'countries', 'cultural', 'impressed', 'former', 'lovers', 'was']
+['support', 'boasts', 'very', 'many', 'venue', 'cultural', 'rich', 'said', 'other', 'former', 'no']
+['hub', 'no', 'its', 'was', 'aims', 'away', 'from', 'show', 'making', 'not', 'kilometers']
+['chew', 'many', 'chinese', 'machine', 'photos', 'aims', 'learning', 'boasts', 'than', 'with', 'be']
+['as', 'no', 'away', 'stadiums', 'from', 'kilometers', 'show', 'making', 'although', 'nine', 'its']
