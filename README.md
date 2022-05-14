@@ -17,7 +17,7 @@ scrapy crawl WikiSpider -o contents.jl
 
 * contents_test.jl is smaller than contents_small.jl
 
-* Weights Matrix files are deleted to save space
+* In every condition, there is only 1 weights file reserved. 
 * test and train
   * python file is for training
   * ipynb file is for testing
