@@ -26,3 +26,12 @@ scrapy crawl WikiSpider -o contents.jl
 
 ### 5-gram
 
+## Transformer_NMT
+* python transformer_nmt.py
+
+## BLEU
+collect data by hand
+use the jupyter notebook to calculate
+
+## EmotionKeyWordsExtract
+use crawl.ipynb to crawl data and do the TF-IDF calculation
